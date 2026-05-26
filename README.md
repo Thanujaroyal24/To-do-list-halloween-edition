@@ -15,10 +15,7 @@ Keep track of assignments, deadlines, reminders, and personal tasks without lett
 - Fully responsive design
 
 ## 🚀 Live Demo
-https://yourusername.github.io/your-repo-name/
-
-*(Replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name after enabling GitHub Pages)*
-
+https://github.com/Thanujaroyal24/To-do-list-halloween-edition
 ## 🖥️ How to Run Locally
 1. Clone or download this repository
 2. Open `index.html` in any modern browser
